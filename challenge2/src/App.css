@@ -1,0 +1,12 @@
+.App{
+  display: flex;
+}
+
+.btn{
+  width: 33.33%;
+}
+
+ul{
+  margin: 10px;
+  padding: 10px;
+}
